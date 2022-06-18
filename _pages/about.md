@@ -18,4 +18,8 @@ last_modified_at: 2022-05-27T11:59:26-04:00
 toc: true
 ---
 
-I am wang!
+![blindAndElephant](../assets/images/blind-men-and-elephant.png)
+
+** The Blind men and the elephant **
+
+
