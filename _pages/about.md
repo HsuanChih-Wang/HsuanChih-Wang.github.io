@@ -2,6 +2,8 @@
 permalink: /about/
 title: "About"
 excerpt: "About me."
+layout: archive
+author_profile: true
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
