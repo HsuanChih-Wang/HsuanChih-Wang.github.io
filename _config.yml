@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Wang's Transportation Lab"
 title_separator          : "-"
-subtitle                 : "I am Husan-Chih Wang, welcome to my webstie" # site tagline that appears below site title in masthead
+subtitle                 :  # site tagline that appears below site title in masthead
 name                     : "Husan-Chih Wang (Leo)"
 description              : "Husan-Chih Wang's personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Husan-Chih Wang (Leo)"
   avatar           : "/assets/images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am Husan-Chih Wang. I am a transportation scientist."
+  bio              : "My name is  Husan-Chih Wang. I am a transportation scientist."
   location         : "Taipei, Taiwan"
   email            : "transport.hcwang@gmail.com"
   links:
