@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 excerpt: "About me."
 layout: archive
 author_profile: true
@@ -20,6 +20,22 @@ toc: true
 
 ![blindAndElephant](../assets/images/blind-men-and-elephant.png)
 
-** The Blind men and the elephant **
+**The Blind men and the elephant**
+
+# Research Topics
+
+My research intersts include V2X-based traffic signal control and traffic big data analysis. Here are the details: 
+
+## 1. V2X-Based traffic signal control 
+
+
+
+
+## 2. Traffic Big Data Analysis
+
+Traffic cccidents analysis
+
+
+
 
 
