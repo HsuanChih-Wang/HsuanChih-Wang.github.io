@@ -1,6 +1,6 @@
 ---
 title: "Publication"
-permalink: /docs/publication/
+permalink: /Publication/
 excerpt: "My publication"
 last_modified_at: 2021-06-07T08:48:05-04:00
 redirect_from:
