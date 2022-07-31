@@ -7,9 +7,6 @@ layout: archive
 author_profile: true
 toc: true
 ---
-
-# Wang's Publication List
-
 ## Jouranl Papers
 * Wei-Hsun Lee, **Hsuan-Chih Wang*** (2022). "A Person-Based Adaptive Traffic Signal Control Method with Cooperative Transit Signal Priority", _Journal of Advanced Transportation_, vol. 2022, Article ID 2205292, 17 pages, 2022. https://doi.org/10.1155/2022/2205292
     * [PDF](https://downloads.hindawi.com/journals/jat/2022/2205292.pdf)
