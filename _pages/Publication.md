@@ -13,7 +13,7 @@ toc: true
     * [Official Link](https://www.hindawi.com/journals/jat/2022/2205292/)
 
 ## Conference Papers
-* **Hsuan-Chih Wang***. (2021). A Study of Applying Eco-Driving Speed Advisory System on Transit Signal Priority. _SUMO Conference Proceedings_, 2, 67–80. https://doi.org/10.52825/scp.v2i.92
+* **Hsuan-Chih Wang***. (2022). A Study of Applying Eco-Driving Speed Advisory System on Transit Signal Priority. _SUMO Conference Proceedings_, 2, 67–80. https://doi.org/10.52825/scp.v2i.92
     * [PDF file](https://www.tib-op.org/ojs/index.php/scp/article/view/92/274])
     * [Presentation video](https://www.youtube.com/watch?v=JInBlui6-N0)
 
