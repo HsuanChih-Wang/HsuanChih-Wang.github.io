@@ -14,9 +14,8 @@ toc: true
 
 ## Conference Papers
 * **Hsuan-Chih Wang***. (2022). A Study of Applying Eco-Driving Speed Advisory System on Transit Signal Priority. _SUMO Conference Proceedings_, 2, 67–80. https://doi.org/10.52825/scp.v2i.92
-    * [PDF](https://www.tib-op.org/ojs/index.php/scp/article/view/92/274])
+    * [PDF](https://www.tib-op.org/ojs/index.php/scp/article/view/92/274])  [PPT](https://drive.google.com/file/d/1KXYqJMPf9h2Lo3W0goVXAnMryyF-fz1P/view?usp=sharing)
     * [Official Link](https://www.tib-op.org/ojs/index.php/scp/article/view/92)
-    * [PPT](https://drive.google.com/file/d/1KXYqJMPf9h2Lo3W0goVXAnMryyF-fz1P/view?usp=sharing)
     * [Presentation video](https://www.youtube.com/watch?v=JInBlui6-N0)
 
 * **Hsuan-Chih Wang***, Wei-Hsun Lee, Ming-Te Wang (2021)."Analyzing Traffic Performance of Emergency Vehicle Signal Preemption System with Traffic Simulation" , _The International Conference and Annual Meeting of Chinese Institute of Transportation_ 
