@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Publication"
-    url: https://HsuanChih-Wang.github.io/_post/
+    url: /docs/publication/
   - title: "About"
     url: https://HsuanChih-Wang.github.io/about/
   - title: "Sample Posts"
