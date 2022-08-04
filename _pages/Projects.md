@@ -3,7 +3,7 @@ title: "Projects"
 permalink: /Projects/
 excerpt: "Participated Projects"
 last_modified_at: 2022-07-31T08:48:05-04:00
-layout: archive
+layout: page
 author_profile: true
 toc: true
 ---
@@ -13,9 +13,9 @@ toc: true
 
 **STILL UNDER CONSTRUCTION**
 
-![alt text](/assets/images/500x300.png)
+![alt text](../assets/images/500x300.png)
 
-* Prpject Date: 2020/09 ~ 2021/12
+* Project Date: 2020/09 ~ 2021/12
 * Location: Tainan City, Taiwan
 * Features:
     * 
