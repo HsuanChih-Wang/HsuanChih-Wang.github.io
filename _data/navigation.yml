@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Publication"
+  - title: "Publications"
     url: /Publication/
   - title: "About"
     url: https://HsuanChih-Wang.github.io/about/
   - title: "Projects"
-    url: /year-archive/
+    url: /Projects/
   - title: "Sample Collections"
     url: /collection-archive/
   - title: "Sitemap"
