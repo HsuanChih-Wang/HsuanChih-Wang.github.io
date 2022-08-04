@@ -20,20 +20,17 @@ toc: true
 
 ![blindAndElephant](../assets/images/blind-men-and-elephant.png)
 
-**The Blind men and the elephant**
+## Degrees
+* M.S. Transportation and Communication Management Science, National Cheng Kung University, Tainan City, Taiwan (2018-2020)
+* B.S. Transportation and Communication Management Science, National Cheng Kung University, Tainan City, Taiwan (2014-2018)
 
-# Research Topics
-
-My research intersts include V2X-based traffic signal control and traffic big data analysis. Here are the details: 
-
-## 1. V2X-Based traffic signal control 
-
-
+## Work Experience
+* Transportation Engineer at Smart Transportation Center, National Cheng Kung University, Tainan, Taiwan. (2020/08-2021/09)
+* Associate Researcher at Intelligent Transportation Center, China Engineering Consultants Inc (CECI), Taipei, Taiwan. (2021/09-Present)
 
 
-## 2. Traffic Big Data Analysis
 
-Traffic cccidents analysis
+
 
 
 
