@@ -1,7 +1,7 @@
 ---
-title: "Publications"
-permalink: /Publication/
-excerpt: "My publication"
+title: "Projects"
+permalink: /Projects/
+excerpt: "Participated Projects"
 last_modified_at: 2022-07-31T08:48:05-04:00
 layout: archive
 author_profile: true
