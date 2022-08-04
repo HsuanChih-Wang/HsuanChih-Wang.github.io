@@ -26,7 +26,7 @@ toc: true
 
 ## Work Experience
 * Transportation Engineer at Smart Transportation Center, National Cheng Kung University, Tainan, Taiwan. (2020/08-2021/09)
-* Associate Researcher at Intelligent Transportation Center, China Engineering Consultants Inc (CECI), Taipei, Taiwan. (2021/09-Present)
+* Associate Researcher at Intelligent Transportation System Center, China Engineering Consultants Inc (CECI), Taipei, Taiwan. (2021/09-Present)
 
 
 
