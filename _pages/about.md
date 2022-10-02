@@ -19,9 +19,8 @@ toc: true
 ---
 
 ![blindAndElephant](../assets/images/blind-men-and-elephant.png)
-* Transportation research is just like "Blind men and an elephant": Everyone claims they know what "Transportation" is, however, no one can really comprehense the whole picture.
-This complicated nature deeply intrigued me :) 
-
+* Transportation research is just like "Blind men and an elephant": Everyone claims they know what "Transportation" is; however, no one can really comprehense the whole picture.
+I am deeply intrigued by this complicated nature :)
 
 ## Degrees
 * M.S. Transportation and Communication Management Science, National Cheng Kung University, Tainan City, Taiwan (2018-2020)
