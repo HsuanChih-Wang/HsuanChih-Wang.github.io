@@ -19,6 +19,9 @@ toc: true
 ---
 
 ![blindAndElephant](../assets/images/blind-men-and-elephant.png)
+* Transportation research is just like "Blind men and an elephant": Everyone claims they know what "Transportation" is, however, no one can really comprehense the whole picture.
+This complicated nature deeply intrigued me :) 
+
 
 ## Degrees
 * M.S. Transportation and Communication Management Science, National Cheng Kung University, Tainan City, Taiwan (2018-2020)
@@ -26,7 +29,7 @@ toc: true
 
 ## Work Experience
 * Transportation Engineer at Smart Transportation Center, National Cheng Kung University, Tainan, Taiwan. (2020/08-2021/09)
-* Associate Researcher at Intelligent Transportation System Center, China Engineering Consultants Inc (CECI), Taipei, Taiwan. (2021/09-Present)
+* Associate Researcher at Intelligent Transportation System Center, China Engineering Consultants Inc (CECI 中華顧問工程司), Taipei, Taiwan. (2021/09-Present)
 
 
 
