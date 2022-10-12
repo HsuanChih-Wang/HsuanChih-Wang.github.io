@@ -1,7 +1,7 @@
 ---
 title: "Publication"
 permalink: /Publication/
-excerpt: "My publication"
+excerpt: "My publications"
 last_modified_at: 2022-07-31T08:48:05-04:00
 layout: archive
 author_profile: true
@@ -11,6 +11,12 @@ toc: true
 * Wei-Hsun Lee, **Hsuan-Chih Wang*** (2022). "A Person-Based Adaptive Traffic Signal Control Method with Cooperative Transit Signal Priority", _Journal of Advanced Transportation_, vol. 2022, Article ID 2205292, 17 pages, 2022. https://doi.org/10.1155/2022/2205292
     * [PDF](https://downloads.hindawi.com/journals/jat/2022/2205292.pdf)
     * [Official Link](https://www.hindawi.com/journals/jat/2022/2205292/)
+
+
+* Wei-Hsun Lee, Teng-Jyun Liang, and **Hsuan-Chih Wang***. 2022. "An Innovative and Cost-Effective Traffic Information Collection Scheme Using the Wireless Sniffing Technique" _Vehicles_ 4, no. 4: 996-1011. https://doi.org/10.3390/vehicles4040054
+    * [PDF](https://www.mdpi.com/2624-8921/4/4/54/pdf)
+    * [Official Link](https://www.mdpi.com/2624-8921/4/4/54/htm)
+
 
 ## Conference Papers
 * **Hsuan-Chih Wang***. (2022). A Study of Applying Eco-Driving Speed Advisory System on Transit Signal Priority. _SUMO Conference Proceedings_, 2, 67–80. https://doi.org/10.52825/scp.v2i.92
