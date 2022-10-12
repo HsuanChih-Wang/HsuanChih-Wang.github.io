@@ -10,8 +10,6 @@ toc: true
 
 ## A V2X-based multi-modal signal prioirty control system in Tainan City
 
-**STILL UNDER CONSTRUCTION**
-
 ![alt text](../assets/images/500x300.png)
 
 * Project Date: 2020/09 ~ 2021/12
