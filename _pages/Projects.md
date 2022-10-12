@@ -19,7 +19,7 @@ toc: true
 * Features:
     * V2X-based multi-modal traffic signal control (Transit signal priority + Emergency vehicle signal preemption)
     * Details: 
-        * Road Side Units (RSUs): 21 Signalized intersections.  
+        * Road Side Units (RSUs): 21 Signalized intersections across the urban area.  
         * On-Board Units (OBUs): 9 Electric Buses + 10 Ambulances.
         * The largest scale multi-modal signal control systems in Taiwan. 
 * Related Publication:

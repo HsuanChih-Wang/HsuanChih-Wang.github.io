@@ -23,8 +23,8 @@ toc: true
 I am deeply intrigued by this complicated nature :)
 
 ## Degrees
-* M.S. Transportation and Communication Management Science, National Cheng Kung University, Tainan City, Taiwan (2018-2020)
-* B.S. Transportation and Communication Management Science, National Cheng Kung University, Tainan City, Taiwan (2014-2018)
+* M.B.A Transportation and Communication Management Science, National Cheng Kung University, Tainan City, Taiwan (2018-2020)
+* B.A.A Transportation and Communication Management Science, National Cheng Kung University, Tainan City, Taiwan (2014-2018)
 
 ## Work Experience
 * Transportation Engineer at Smart Transportation Center, National Cheng Kung University, Tainan, Taiwan. (2020/08-2021/09)
