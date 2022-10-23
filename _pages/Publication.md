@@ -25,14 +25,14 @@ toc: true
     * [Presentation video](https://www.youtube.com/watch?v=JInBlui6-N0)
     * [Source Code](https://github.com/HsuanChih-Wang/SUMO_SpeedAdviosry_on_TSP)
 
+* Chun-Cheng Liang, **Hsuan-Chih Wang***, Wei-Hsun Lee and Ming-Te Wang (2022). Evaluating traffic performance of transit signal priority using SUMO simulation: A real-world case. _2022 SUMO Conference_ . (Abstract)
+    * [Presentation video](https://www.youtube.com/watch?v=orrKpgA8jCw)
+
+* Kuan-Yao Wang, **Hsuan-Chih Wang***, Ming-Chih Tsai, Shi-Sheng Sun, Wei-Hsuan Wang, Ya-Feng Hsu, Mu-han Wang, Shia Li (2022).  "A Preliminary Study about Impact Assessment of ITS Projects in Taiwan". _The 2022 International Conference and Annual Meeting of Chinese Institute of Transportation_ (Accepted)
+
 * **Hsuan-Chih Wang***, Wei-Hsun Lee, Ming-Te Wang (2021)."Analyzing Traffic Performance of Emergency Vehicle Signal Preemption System with Traffic Simulation" , _The International Conference and Annual Meeting of Chinese Institute of Transportation_ 
     * [PDF (Written in Chinese)](https://drive.google.com/file/d/1vTM0b8LKxvHh9tR4WEOto3LcVLClVC_u/view?usp=sharing)
     * [Source Code](https://github.com/HsuanChih-Wang/EVSP_Simulation-CTRR_2021_Paper-)
-
-## Technical Presentation
-
-* Chun-Cheng Liang, **Hsuan-Chih Wang***, Wei-Hsun Lee and Ming-Te Wang (2022). Evaluating traffic performance of transit signal priority using SUMO simulation: A real-world case. _2022 SUMO Conference_ .
-    * [Presentation video](https://www.youtube.com/watch?v=orrKpgA8jCw)
 
 ## Book Chapters
 * Yung-Hui Chou, Wei-Kuo Chou, Wen-Chien Yeh, Chen-Chieh Lu, Ming-Chih Tsai, Kuan-Yao Wang, KuoYi Hung, Yang Hong, **Hsuan-Chih Wang***, Chia-Hsing Chu, Wei-Hsuan Wang, Sheng-Chih, Huang, "The Project of Technical Consulting and Management for Intelligent Transportation Systems Development and Vehicle Safety Regulations (1/4)" (2021). Taipei City, _China Engineering Consultants, INC (CECI)_.
