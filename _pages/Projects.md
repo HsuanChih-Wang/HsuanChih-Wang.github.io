@@ -8,7 +8,7 @@ author_profile: true
 toc: true
 ---
 
-## A V2X-based multi-modal signal prioirty control system in Tainan City
+## Tainan City V2X-based Multi-Modal Traffic Signal Control Systems
 
 ![alt text](../assets/images/TainanTSP_SystemStructure.png)
 
