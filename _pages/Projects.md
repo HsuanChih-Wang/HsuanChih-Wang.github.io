@@ -10,19 +10,12 @@ toc: true
 
 ## Tainan City V2X-based Multi-Modal Traffic Signal Control Systems
 
-![alt text](../assets/images/TainanTSP_SystemStructure.png)
-
-![alt text](../assets/images/TainanTSP_1.png)
-
-![alt text](../assets/images/TainanTSP_OBU_Bus.png)
-
-![alt text](../assets/images/TainanTSP_OBU_EV.png)
-
+![alt text](../assets/images/System_recording_12sec.gif)
 
 * Project Date: 2020/09 ~ 2021/12
 * Location: Tainan City, Taiwan
 * Features:
-    * V2X-based multi-modal traffic signal control (Transit signal priority + Emergency vehicle signal preemption)
+    * V2X-based multi-modal traffic signal priority (Transit signal priority + Emergency vehicle signal preemption)
     * Details: 
         * Road Side Units (RSUs): 21 Signalized intersections across the urban area.  
         * On-Board Units (OBUs): 9 Electric Buses + 10 Ambulances.
@@ -33,7 +26,13 @@ toc: true
         * [Presentation video](https://www.youtube.com/watch?v=orrKpgA8jCw)
 
 
+![alt text](../assets/images/TainanTSP_SystemStructure.png)
 
+![alt text](../assets/images/TainanTSP_1.png)
+
+![alt text](../assets/images/TainanTSP_OBU_Bus.png)
+
+![alt text](../assets/images/TainanTSP_OBU_EV.png)
 
 
 
