@@ -28,7 +28,7 @@ I am deeply intrigued by this complicated nature :)
 
 ## Work Experience
 * Transportation Engineer at Smart Transportation Center, National Cheng Kung University, Tainan, Taiwan. (2020/08-2021/09)
-* Associate Researcher at Intelligent Transportation System Center, China Engineering Consultants Inc (CECI 中華顧問工程司), Taipei, Taiwan. (2021/09-Present)
+* Associate Researcher at Intelligent Transportation System Center, C. E. Consultants Inc (CECI 中華顧問工程司), Taipei, Taiwan. (2021/09-Present)
 
 
 
