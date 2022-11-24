@@ -10,7 +10,7 @@ toc: true
 
 ## V2X-based Multi-Modal Traffic Signal Priority Systems in Tainan City 
 
-![system recordings](../assets/images/System_recording_12sec.gif)
+![system recordings](../assets/images/New video_19sec_540p.gif)
 
 * Project Date: 2020/09 ~ 2021/12
 * Location: Tainan City, Taiwan
@@ -25,13 +25,16 @@ toc: true
     * Chun-Cheng Liang, **Hsuan-Chih Wang***, Wei-Hsun Lee and Ming-Te Wang (2022). Evaluating traffic performance of transit signal priority using SUMO simulation: A real-world case. _2022 SUMO Conference_ .
         * [Presentation video](https://www.youtube.com/watch?v=orrKpgA8jCw)
 
-
+* System Structure
 ![alt text](../assets/images/TainanTSP_SystemStructure.png)
 
+* Road-Side Unit (RSU)
 ![alt text](../assets/images/TainanTSP_1.png)
 
+* On-Board Unit (OBU) on Buses
 ![alt text](../assets/images/TainanTSP_OBU_Bus.png)
 
+* On-Board Unit (OBU) on EVs
 ![alt text](../assets/images/TainanTSP_OBU_EV.png)
 
 
