@@ -10,7 +10,7 @@ toc: true
 
 ## V2X-based Multi-Modal Traffic Signal Priority Systems in Tainan City 
 
-![system recordings](../assets/images/New video_19sec_540p.gif)
+![system recordings](../assets/images/New video_19sec_withText_540p.gif)
 
 * Project Date: 2020/09 ~ 2021/12
 * Location: Tainan City, Taiwan
