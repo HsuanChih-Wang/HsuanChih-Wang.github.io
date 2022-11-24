@@ -12,6 +12,9 @@ toc: true
 
 ![system recordings](../assets/images/New video_19sec_withText_540p.gif)
 
+
+![alt text](../assets/images/TainanTSP_SystemStructure.png)
+
 * Project Date: 2020/09 ~ 2021/12
 * Location: Tainan City, Taiwan
 * Features:
@@ -25,8 +28,6 @@ toc: true
     * Chun-Cheng Liang, **Hsuan-Chih Wang***, Wei-Hsun Lee and Ming-Te Wang (2022). Evaluating traffic performance of transit signal priority using SUMO simulation: A real-world case. _2022 SUMO Conference_ .
         * [Presentation video](https://www.youtube.com/watch?v=orrKpgA8jCw)
 
-* System Structure
-![alt text](../assets/images/TainanTSP_SystemStructure.png)
 
 * Road-Side Unit (RSU)
 ![alt text](../assets/images/TainanTSP_1.png)
