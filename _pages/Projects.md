@@ -28,6 +28,10 @@ toc: true
 
 * In my master's thesis, I proposed a Person-based Adaptive traffic signal control method with Cooperative Transit signal priority (PACT). In PACT, not only do Road-Side Units (RSUs) perform signal optimization, but also On-Board Units (OBUs) provide in-vehicle speed advisory to reduce delays. The interaction between RSU and OBU is conducted second-by-second, which has high adaptability to traffic variations.
 
+* Published in _Journal of Advanced Transportation_
+    * [PDF](https://downloads.hindawi.com/journals/jat/2022/2205292.pdf)
+    * [Official Link](https://www.hindawi.com/journals/jat/2022/2205292/)
+
 * Structure
 ![simulation](../assets/images/process_Of_PACT.png)
 
