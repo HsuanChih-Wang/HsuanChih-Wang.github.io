@@ -24,17 +24,22 @@ toc: true
 * The project received the *Highest Distinction Award* and *Outstanding Transportation Project Award* out of 20+ ITS projects in Taiwan from the Ministry of Transportation and Communications and the Chinese Institute of Transportation, respectively
 
 ### A Person-Based Adaptive Traffic Signal Control Method with Cooperative Transit Signal Priority (Master's thesis)
+<font color="#07F372">Tag: Adaptive Signal Control, Cooperative ITS, Traffic Simulation</font>
 
 * In my master's thesis, I proposed a Person-based Adaptive traffic signal control method with Cooperative Transit signal priority (PACT). In PACT, not only do Road-Side Units (RSUs) perform signal optimization, but also On-Board Units (OBUs) provide in-vehicle speed advisory to reduce delays. The interaction between RSU and OBU is conducted second-by-second, which has high adaptability to traffic variations.
 
 ![simulation](../assets/images/SUMO_master_thesis.gif)
 
 ### Signal Phase and Timing (SPaT) Service in Tainan City 
+<font color="#07F372">Tag: V2X, Signal Phase and Timing</font>
+
 * As my undergraduate project, I Developed an Android mobile application providing the SPaT information of 1000+ signalized intersections via a traffic signal timing database from the Tainan City Bureau of Transportation. 
 
 ![SPaT](../assets/images/Tainan SPaT.gif)
 
 ### A Study of Applying Eco-Driving Speed Advisory on Transit Signal Priority
+<font color="#07F372">Tag: Transit Signal Priority</font>
+
 * A study of integrating speed advisory into Transit Signal Priority (TSP) to reduce bus delays and enhance energy consumption performances. A real electric bus route in Tainan City, Taiwan is used for the case study. Intersection layout and traffic related parameters are established in microscopic traffic simulation software SUMO (Simulation of Urban Mobility) to verify the effectiveness of the proposed model.
 
 
