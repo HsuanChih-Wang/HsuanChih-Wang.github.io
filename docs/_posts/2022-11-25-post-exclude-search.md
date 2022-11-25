@@ -1,29 +1,44 @@
 ---
-title:  "Exclude Post from Search Index"
-search: false
-categories: 
-  - Jekyll
-last_modified_at: 2022-11-25T08:06:00-05:00
+title: "Post: Image (Standard)"
+categories:
+  - Post Formats
+tags:
+  - image
+  - Post Formats
 ---
 
-This post should not appear in the search index because it has the following YAML Front Matter:
+The preferred way of using images is placing them in the `/assets/images/` directory and referencing them with an absolute path. Prepending the filename with `{% raw %}{{ site.url }}{{ site.baseurl }}/assets/images/{% endraw %}` will make sure your images display properly in feeds and such.
 
-```yaml
-search: false
+Standard image with no width modifier classes applied.
+
+**HTML:**
+
+```html
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg" alt="">{% endraw %}
 ```
 
-**Note:** `search: false` only works to exclude posts when using Lunr as a search provider.
-{: .notice--info}
+**or Kramdown:**
 
-To exclude files when using Algolia as a search provider add an array to `algolia.files_to_exclude` in your `_config.yml`. For more configuration options be sure to check their [full documentation](https://community.algolia.com/jekyll-algolia/options.html).
-
-```yaml
-algolia:
-  # Exclude more files from indexing
-  files_to_exclude:
-    - index.html
-    - index.md
-    - excluded-file.html
-    - _posts/2017-11-28-post-exclude-search.md
-    - subdirectory/*.html
+```markdown
+{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg){% endraw %}
 ```
+
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-image-9.jpg)
+
+Image that fills page content container by adding the `.full` class with:
+
+**HTML:**
+
+```html
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg" alt="" class="full">{% endraw %}
+```
+
+**or Kramdown:**
+
+```markdown
+{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg)
+{: .full}{% endraw %}
+```
+
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-image-10.jpg)
+{: .full}
