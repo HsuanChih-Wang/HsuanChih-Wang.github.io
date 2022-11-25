@@ -13,7 +13,7 @@ toc: true
 
 ![system recordings](../assets/images/New video_19sec_withText_540p.gif)
 
-
+* System Structure
 ![alt text](../assets/images/TainanTSP_SystemStructure_2.png)
 
 * I was in charge of designing and implementing core signal priority strategies for 21 signalized intersections.
@@ -21,11 +21,16 @@ toc: true
     * Chun-Cheng Liang, **Hsuan-Chih Wang***, Wei-Hsun Lee and Ming-Te Wang (2022). Evaluating traffic performance of transit signal priority using SUMO simulation: A real-world case. _2022 SUMO Conference_ .
         * [Presentation video](https://www.youtube.com/watch?v=orrKpgA8jCw)
 
-* Received the Highest Distinction Award and Outstanding Transportation Project Award out of 20+ ITS projects in Taiwan from the Ministry of Transportation and Communications and the Chinese Institute of Transportation, respectively
+* The project received the *Highest Distinction Award* and *Outstanding Transportation Project Award* out of 20+ ITS projects in Taiwan from the Ministry of Transportation and Communications and the Chinese Institute of Transportation, respectively
+
+### A Person-Based Adaptive Traffic Signal Control Method with Cooperative Transit Signal Priority (Master's thesis)
+
+* In my master's thesis, I proposed a Person-based Adaptive traffic signal control method with Cooperative Transit signal priority (PACT). In PACT, not only do Road-Side Units (RSUs) perform signal optimization, but also On-Board Units (OBUs) provide in-vehicle speed advisory to reduce delays. The interaction between RSU and OBU is conducted second-by-second, which has high adaptability to traffic variations.
 
 
 
+![simulation](../assets/images/SUMO_master_thesis.gif)
 
-
+### 
 
 
