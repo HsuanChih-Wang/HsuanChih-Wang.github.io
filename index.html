@@ -9,12 +9,16 @@ title: Hsuan-Chih Wang's Home Page
 <!-- author_profile: true -->
 <!-- --- -->
 
-
 Hsuan-Chih Wang is currently an Associate Reasearcher in the Intelligent Transportation System Center at China Engineering Consultants. Inc (CECI), Taipei City, Taiwan. 
 <br>His research is focused on <b>V2X-based Traffic Signal Control</b> and <b>Data-driven Traffic Safety Analysis</b> through computational methodologies such as mathematical programming and data mining. 
 <br>
 <br>Click <a href="https://wangtechlab.com/Publication/">here</a> to know more about Wang's latest research publications and projects. If you have questions about Wang's research, or are interested in collaborating, please feel free to contact him using the <a href = "mailto: transport.hcwang@gmail.com">Email link</a>. 
 <br> <image src=assets/images/SUMO_master_thesis.gif>
 </br>
+
+{% for post in site.posts limit:3 %}
+   {{ post.title }} 
+{% endfor %}
+
 
 
