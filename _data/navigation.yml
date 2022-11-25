@@ -4,9 +4,10 @@ main:
     url: /Publication/
   - title: "About"
     url: https://HsuanChih-Wang.github.io/about/
+  - title: "Posts"
+    url: /year-archive/
   - title: "Projects"
     url: /Projects/
   - title: "Sample Collections"
     url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+
