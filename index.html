@@ -10,21 +10,3 @@ Hsuan-Chih Wang is currently an Associate Reasearcher in the Intelligent Transpo
 <br>Click <a href="https://wangtechlab.com/Publication/">here</a> to know more about Wang's latest research publications and projects. If you have questions about Wang's research, or are interested in collaborating, please feel free to contact him using the <a href = "mailto: transport.hcwang@gmail.com">Email link</a>. 
 
 
-
-<div class="feature__wrapper">
-    {% for post in site.posts limit:3 %}
-    <div class="feature__item">
-       <div class="archive__item">
-          <div class="archive__item-body">
-             <h3 class="archive__item-title"><a href="{{ site.baseurl }}{{ post.url}}" rel="permalink">{{ post.title }}</a></h3>
-             <div class="archive__item-excerpt">
-                <p>{{ post.excerpt | markdownify }}</p>
-             </div>
-          </div>
-       </div>
-    </div>
-    {% endfor %}
- </div>
-
-
-
