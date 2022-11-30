@@ -35,6 +35,8 @@ toc: true
 * Structure
 ![simulation](../assets/images/process_Of_PACT.png)
 
+![simulation](../assets/images/22PACT_01.png)
+
 * Simulation
 ![simulation](../assets/images/SUMO_master_thesis.gif)
 
