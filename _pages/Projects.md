@@ -35,6 +35,9 @@ toc: true
 * Structure
 ![simulation](../assets/images/process_Of_PACT.png)
 
+* Modeling signal and delay 
+![simulation](../assets/images/22PACT_00.png)
+
 ![simulation](../assets/images/22PACT_01.png)
 
 * Simulation
