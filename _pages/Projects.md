@@ -59,10 +59,10 @@ toc: true
 
 * A study of integrating speed advisory into Transit Signal Priority (TSP) to reduce bus delays and enhance energy consumption performances. A real electric bus route in Tainan City, Taiwan is used for the case study. Intersection layout and traffic related parameters are established in microscopic traffic simulation software SUMO (Simulation of Urban Mobility) to verify the effectiveness of the proposed model.
 
-* [PDF](https://www.tib-op.org/ojs/index.php/scp/article/view/92/274])  [PPT](https://drive.google.com/file/d/1KXYqJMPf9h2Lo3W0goVXAnMryyF-fz1P/view?usp=sharing)
-  [Official Link](https://www.tib-op.org/ojs/index.php/scp/article/view/92)
-  [Presentation video](https://www.youtube.com/watch?v=JInBlui6-N0)
-  [Source Code](https://github.com/HsuanChih-Wang/SUMO_SpeedAdviosry_on_TSP)
+* Links [[PDF]](https://www.tib-op.org/ojs/index.php/scp/article/view/92/274])  [[PPT]](https://drive.google.com/file/d/1KXYqJMPf9h2Lo3W0goVXAnMryyF-fz1P/view?usp=sharing)
+  [[Official Link]](https://www.tib-op.org/ojs/index.php/scp/article/view/92)
+  [[Presentation video]](https://www.youtube.com/watch?v=JInBlui6-N0)
+  [[Source Code]](https://github.com/HsuanChih-Wang/SUMO_SpeedAdviosry_on_TSP)
 
 
 
