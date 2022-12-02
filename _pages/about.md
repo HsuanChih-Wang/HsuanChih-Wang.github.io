@@ -19,6 +19,8 @@ toc: true
 ---
 
 ![blindAndElephant](../assets/images/blind-men-and-elephant.png)
+Source: https://mythgyaan.com/blind-men-and-the-elephant/
+
 * Transportation research is just like "Blind men and an elephant": Everyone claims they know what "Transportation" is; however, no one can really comprehense the whole picture.
 I am deeply intrigued by this complicated nature :)
 
