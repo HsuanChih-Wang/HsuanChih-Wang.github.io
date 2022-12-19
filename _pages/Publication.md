@@ -19,7 +19,7 @@ toc: true
 
 
 ## Conference Papers
-* •	Wang, H.-C.* (2022). A Study of Applying Eco-Driving Speed Advisory System on Transit Signal Priority. _SUMO Conference Proceedings_, 2, 67–80. (https://doi.org/10.52825/scp.v2i.92)
+* **Wang, H.-C.*** (2022). A Study of Applying Eco-Driving Speed Advisory System on Transit Signal Priority. _SUMO Conference Proceedings_, 2, 67–80. (https://doi.org/10.52825/scp.v2i.92)
     * [PDF](https://www.tib-op.org/ojs/index.php/scp/article/view/92/274)  [PPT](https://drive.google.com/file/d/1KXYqJMPf9h2Lo3W0goVXAnMryyF-fz1P/view?usp=sharing)
     * [Official Link](https://www.tib-op.org/ojs/index.php/scp/article/view/92)
     * [Presentation video](https://www.youtube.com/watch?v=JInBlui6-N0)
