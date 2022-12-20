@@ -2,7 +2,7 @@
 title: "Research & Projects"
 permalink: /Projects/
 excerpt: "Participated Projects"
-last_modified_at: 2022-11-25T08:48:05-04:00
+last_modified_at: 2022-12-20T08:48:05-04:00
 layout: single
 author_profile: true
 toc: true
