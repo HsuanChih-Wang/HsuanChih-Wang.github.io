@@ -34,10 +34,3 @@ I am deeply intrigued by this complicated nature :)
 * **Graduate Research Assistant** at Research Center for Smart City Transportation and Network Services, NCKU, Tainan, Taiwan. (2018/08-2020/07)
 
 
-
-
-
-
-
-
-
