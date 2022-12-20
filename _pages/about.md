@@ -32,5 +32,3 @@ I am deeply intrigued by this complicated nature :)
 * **Associate Researcher** at Intelligent Transportation System Center, C. E. Consultants Inc (CECI 中華顧問工程司), Taipei, Taiwan. (2021/09-Present)
 * **Traffic Engineer** at Research Center for Smart City Transportation and Network Services, NCKU, Tainan, Taiwan. (2020/08-2021/09)
 * **Graduate Research Assistant** at Research Center for Smart City Transportation and Network Services, NCKU, Tainan, Taiwan. (2018/08-2020/07)
-
-
