@@ -13,11 +13,6 @@ toc: true
     * [PDF](https://downloads.hindawi.com/journals/jat/2022/2205292.pdf)
     * [Official Link](https://www.hindawi.com/journals/jat/2022/2205292/)
 
-* Lee, W.-H., Liang, T.-J., and **Wang, H.-C.***, (2022). An innovative and cost-effective traffic information collection scheme using the wireless sniffing technique. _Vehicles_ 4, no. 4: 996-1011. (https://doi.org/10.3390/vehicles4040054)
-    * [PDF](https://www.mdpi.com/2624-8921/4/4/54/pdf)
-    * [Official Link](https://www.mdpi.com/2624-8921/4/4/54/htm)
-
-
 ## Conference Papers
 * **Wang, H.-C.*** (2022). A Study of Applying Eco-Driving Speed Advisory System on Transit Signal Priority. _SUMO Conference Proceedings_, 2, 67–80. (https://doi.org/10.52825/scp.v2i.92)
     * [PDF](https://www.tib-op.org/ojs/index.php/scp/article/view/92/274)  [PPT](https://drive.google.com/file/d/1KXYqJMPf9h2Lo3W0goVXAnMryyF-fz1P/view?usp=sharing)
