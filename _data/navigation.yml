@@ -1,9 +1,10 @@
 # main links
+# 
 main:
   - title: "About Me"
     url: https://HsuanChih-Wang.github.io/about/
   - title: "CV/Resume"
-    url: https://HsuanChih-Wang.github.io/CV_Resume/Wang_CV_v15.pdf
+    url: https://HsuanChih-Wang.github.io/CV_Resume/Wang_CV_v16.pdf
   - title: "Publications"
     url: /Publication/
   - title: "Research & Projects"
