@@ -29,6 +29,7 @@ I am deeply intrigued by this complicated nature :)
 * B.B.A Transportation and Communication Management Science, National Cheng Kung University (NCKU), Tainan City, Taiwan (2014-2018)
 
 ## Work Experience
-* **Associate Researcher** at Intelligent Transportation System Center, China Engineering Consultants Inc, Taipei, Taiwan. (2021/09-Present)
+* **Research Assistant** at Transportation Research Center, National Yang Ming Chiao Tung University (2023/02~Present)
+* **Associate Researcher** at Intelligent Transportation System Center, China Engineering Consultants Inc, Taipei, Taiwan. (2021/09-2023/01)
 * **Traffic Engineer** at Research Center for Smart City Transportation and Network Services, NCKU, Tainan, Taiwan. (2020/08-2021/09)
 * **Graduate Research Assistant** at Research Center for Smart City Transportation and Network Services, NCKU, Tainan, Taiwan. (2018/08-2020/07)
